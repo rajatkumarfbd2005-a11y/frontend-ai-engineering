@@ -52,3 +52,10 @@ Student of Frontend AI Engineering.
 3. Test changes before committing.
 4. Use Conventional Commits.
 5. Push changes to GitHub.
+
+## Learning Resources
+- Official HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+- Official CSS documentation: https://developer.mozilla.org/en-US/docs/Web/CSS
+- JavaScript documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Node.js documentation: https://nodejs.org/docs/
+- Git documentation: https://git-scm.com/doc
