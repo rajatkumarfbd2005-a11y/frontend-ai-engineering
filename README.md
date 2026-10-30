@@ -43,8 +43,41 @@ frontend-ai-engineering/
 - Build practical projects.
 - Complete a capstone project.
 
+## Setup Instructions
+
+1. Install Node.js and Git.
+2. Clone this repository.
+3. Open the project folder in VS Code.
+4. Review the documentation and start working on assignments.
+
+## Project Status
+Currently in progress. More learning tasks and projects
+will be added as I continue the program.
+
+## Setup Instructions
+
+1. Install Node.js and Git.
+2. Clone this repository.
+3. Open the project folder in VS Code.
+4. Review the documentation and start working on assignments.
+
+## Project Status
+Currently in progress. More learning tasks and projects
+will be added as I continue the program.
+
+## Setup Instructions
+
+1. Install Node.js and Git.
+2. Clone this repository.
+3. Open the project folder in VS Code.
+4. Review the documentation and start working on assignments.
+## Project Status
+Currently in progress. More learning tasks and projects
+will be added as I continue the program.
+
 ## Author
-Student of Frontend AI Engineering.
+Rajat Kumar
+Frontend AI Engineering Student
 
 ## Development Workflow
 1. Review project documentation.
