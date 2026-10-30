@@ -45,3 +45,10 @@ frontend-ai-engineering/
 
 ## Author
 Student of Frontend AI Engineering.
+
+## Development Workflow
+1. Review project documentation.
+2. Make changes using VS Code.
+3. Test changes before committing.
+4. Use Conventional Commits.
+5. Push changes to GitHub.
